@@ -2,7 +2,7 @@
 <Servers>
 	<ServerGroup Name="VIKINGS MOD" Logo="https://i.postimg.cc/nr4wvf0n/VIKINGS-MOD.png">
 		<!-- Logo is a direct link to a jpg /png file. Default image dimension is 2064x452 -->
-		<Server Name="VIKINGS MOD">
+		<Server Name="VIKINGSMOD">
 			<Version>2.5</Version>
 			<DownloadMode>Release</DownloadMode>
 			<Downloads>
