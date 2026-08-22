@@ -3,7 +3,7 @@
 	<ServerGroup Name="VIKINGS MOD" Logo="https://i.postimg.cc/6qZmpXXG/VM-BANNER-NEW.png">
 		<!-- Logo is a direct link to a jpg /png file. Default image dimension is 2064x452 -->
 		<Server Name="VIKINGSMOD">
-			<Version>3.1</Version>
+			<Version>3.2</Version>
 			<DownloadMode>Release</DownloadMode>
 			<Downloads>
 				<Download>https://github.com/NORDMANN845/VIKINGS-MOD/releases</Download>
@@ -12,7 +12,7 @@
 			<!-- Got a website -->
 			<WebSite>https://vikingsmod.com/</WebSite>
 			<Description>
-For 7D2D Version 3.1 Stable
+For 7D2D Version 3.2
 Changelogs on Discord!
 What exactly is the VIKINGS MOD?
 The Vikings Mod is a massive overhaul for 7 Days to Die.  
